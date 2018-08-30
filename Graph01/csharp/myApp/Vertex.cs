@@ -4,7 +4,8 @@ public class Vertex {
 
 public Vertex(string label) 
 { 
-    this.label = label; wasVisited = false;
+    this.label = label; 
+    wasVisited = false;
 }
 
 }
